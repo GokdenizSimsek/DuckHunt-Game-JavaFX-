@@ -35,3 +35,6 @@ Please specify extra information if you have any
 There are might be some bug about sound effects.
 Just exit the program and rerun the code.
 ///////////////////////////////////////////////////
+
+
+TAkE A LOOK AT THE CHECKLIST FOR THE DEFICIENCIES IN THE GAME.
